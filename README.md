@@ -1,2 +1,2 @@
-Free Particles.js implementation example. 
-Github pages commit.
+Particles.js library implemented in a simple layout example. 
+Intended to show a working example on how to use it on a website. 
